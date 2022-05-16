@@ -18,7 +18,7 @@ const Proyectos = () => {
                 <span>| password:  123456</span>
             </div>
           </h4>
-          <a target={"blanck"} href="https://germandex.000webhostapp.com/Netflix/movie.html" className="contact-proyect">
+          <a target={"blanck"} href="https://germandex.000webhostapp.com/Netflix-api" className="contact-proyect">
             <span>Observar</span>
           </a>
         </div>
