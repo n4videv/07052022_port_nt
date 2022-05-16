@@ -5,7 +5,7 @@ import Buttons from '../button/Button';
 import { useState } from 'react';
 
  function Home(){
-    const [toggleState, setToggleState]=useState(false);
+    const [toggleState, setToggleState]=useState(true);
 
     const change=()=>{
         setToggleState(!toggleState)
